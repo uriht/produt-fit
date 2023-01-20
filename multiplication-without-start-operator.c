@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 // Question
+//Multiply without *
 int main()
 {
     int num1, num2;
