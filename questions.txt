@@ -1,1 +1,23 @@
-1.
+1.GIven a number - find the number of Digit
+        a) Harsh Method
+        b) Soft Method
+
+2. Given a NUmber 'n' - find the sum of digits
+        a) Harsh Method
+        b) Soft Method
+
+3.Given a number check if it is an armstrong/Narcissistic number -- Sample : 153,370,371,1634
+
+4.Given a number 'n' - print the output as we read the number digit by digit and print its name. - useful in reading billing amounts
+
+Sample: 6974
+Output : Six Nine Seven Four
+Sample : 999999999 - Triple Nine Triple Nine Triple Nine
+
+5.Given a number - Reverese the Number
+
+6.Given a number 'n' check if it is Palindromic number
+
+7.Given a number 'n' - rearrange the number, first odd digits and then even digits, print the sum of original number and rearranged number
+123456
+135246 +123456 = Answer 
