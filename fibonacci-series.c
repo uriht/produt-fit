@@ -5,9 +5,9 @@ int main()
 {
     int n = 0;
     scanf("%d", &n);
-    int num1 = 0;
+    int num1 = -1; // important
     int num2 = 1;
-    printf("%d %d", num1, num2);
+
     int num3;
 
     while (n)
